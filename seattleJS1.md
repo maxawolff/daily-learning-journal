@@ -1,0 +1,1 @@
+notes from meetup: met matthew and andrew, working on react, both were also bootcamp students. Andrew just finished his today, his final project was an app that showed all of the national parks in america on a map. You can click on a location to get more info, some of them had info about visitor centers as well.
