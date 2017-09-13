@@ -1,0 +1,1 @@
+Today in class we worked with jQuery. We had read about it before, but today was the first time that we really delved into it and did any actual work with it. We used jQuery for DOM manipulation, rather than typing our doucment.getElementByTagName('whatevertag'), you can search for it by using $(whatevertag). Overall it seems like a helpful way to easily access parts of the DOM. 
