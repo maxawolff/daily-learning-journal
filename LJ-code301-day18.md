@@ -1,0 +1,1 @@
+Today we worked on getting more functionality to our app. We passed in our data that we got back from reddit into the text razor api, and then took our output and after parsing it and sent it to our wordcloud api. We did other things as well, it went ok but we have a lot of work to do today. I am learning more about planning and organization. 
